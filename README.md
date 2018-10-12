@@ -1,2 +1,2 @@
 # codefundo
-My idea is to create an app
+My idea is to create an app.
